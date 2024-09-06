@@ -1,1 +1,1 @@
-Aisultan = "gau"
+print("Aisultan is gay")
